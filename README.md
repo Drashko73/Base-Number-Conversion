@@ -13,6 +13,6 @@ _Without command line arguments:_
 
 ![image](https://github.com/Drashko73/Base-Number-Conversion/assets/103207855/eb45d9ff-0822-4900-afe8-73974aaee02a)
 
-_With command line arguments:_
+_With command line arguments: (python baseNumberConverter.py 1011 2 10)_
 
 ![image](https://github.com/Drashko73/Base-Number-Conversion/assets/103207855/4cfe22af-8a7a-4b41-aec2-e510ddc9d2f7)
