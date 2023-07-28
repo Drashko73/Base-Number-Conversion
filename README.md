@@ -2,7 +2,7 @@
 
 Number conversion is one of the most important skills you need to have in order to easily understand and implement concepts of programming, especially those that require lower level of programming.
 
-With this short Python code I implemented conversion of any number from any base in interval [2, 36] inclusive. The code itself doesn't require installing any additional module so it makes it much easier to run.
+With this short Python code I implemented conversion of any number from any base in interval [2, 36] inclusive. The code itself doesn't require installing any additional modules so it makes it much easier to run.
 This can be done in two ways:
   1. Without passing the command line arguments: **python baseNumberConversion.py**
   2. With passing the command line arguments: **python baseNumberConversion.py numberToConvert base targetBase**
